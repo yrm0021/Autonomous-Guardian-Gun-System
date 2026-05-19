@@ -20,8 +20,7 @@ AI-powered autonomous sentry system using:
 - Webcam/IP camera
 - Laptop/PC
 
-## Project Demo
-[Watch Project Demo](https://youtu.be/1A-Kj-G8Pak?si=SQ0w00XTksG1kU2J)
+## Project Demo [Watch Project Demo](https://youtu.be/1A-Kj-G8Pak?si=SQ0w00XTksG1kU2J)
 
 © 2026 Yash. All Rights Reserved.
 

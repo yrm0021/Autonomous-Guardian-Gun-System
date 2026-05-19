@@ -1,4 +1,4 @@
-#Autonomous Guardian Gun System
+# Autonomous Guardian Gun System
 
 AI-powered autonomous sentry system using:
 - OpenCV
